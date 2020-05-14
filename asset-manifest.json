@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "./main.13777c0b7a6423fa7b31.bundle.js",
+    "main.js.map": "./main.13777c0b7a6423fa7b31.bundle.js.map",
+    "runtime~main.js": "./runtime~main.13777c0b7a6423fa7b31.bundle.js",
+    "runtime~main.js.map": "./runtime~main.13777c0b7a6423fa7b31.bundle.js.map",
+    "vendors~main.js": "./vendors~main.13777c0b7a6423fa7b31.bundle.js",
+    "vendors~main.js.map": "./vendors~main.13777c0b7a6423fa7b31.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.d68c229091d2f7fbc21ab34107720fe4.js": "./precache-manifest.d68c229091d2f7fbc21ab34107720fe4.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/roboto-v20-cyrillic_latin-500.eot": "./static/media/roboto-v20-cyrillic_latin-500.0693bf1b.eot",
+    "static/media/roboto-v20-cyrillic_latin-500.woff": "./static/media/roboto-v20-cyrillic_latin-500.18a127e9.woff",
+    "static/media/roboto-v20-cyrillic_latin-500.woff2": "./static/media/roboto-v20-cyrillic_latin-500.2e0bf09a.woff2",
+    "static/media/roboto-v20-cyrillic_latin-500.ttf": "./static/media/roboto-v20-cyrillic_latin-500.7d59ee8a.ttf",
+    "static/media/roboto-v20-cyrillic_latin-700.woff2": "./static/media/roboto-v20-cyrillic_latin-700.12551865.woff2",
+    "static/media/roboto-v20-cyrillic_latin-700.ttf": "./static/media/roboto-v20-cyrillic_latin-700.583de8f5.ttf",
+    "static/media/roboto-v20-cyrillic_latin-700.eot": "./static/media/roboto-v20-cyrillic_latin-700.7deb530e.eot",
+    "static/media/roboto-v20-cyrillic_latin-700.woff": "./static/media/roboto-v20-cyrillic_latin-700.cf6c1c77.woff",
+    "static/media/roboto-v20-cyrillic_latin-900italic.woff2": "./static/media/roboto-v20-cyrillic_latin-900italic.4122547b.woff2",
+    "static/media/roboto-v20-cyrillic_latin-900italic.eot": "./static/media/roboto-v20-cyrillic_latin-900italic.54e47360.eot",
+    "static/media/roboto-v20-cyrillic_latin-900italic.woff": "./static/media/roboto-v20-cyrillic_latin-900italic.8f57d871.woff",
+    "static/media/roboto-v20-cyrillic_latin-900italic.ttf": "./static/media/roboto-v20-cyrillic_latin-900italic.a6145daf.ttf",
+    "static/media/roboto-v20-cyrillic_latin-regular.woff2": "./static/media/roboto-v20-cyrillic_latin-regular.9af3b948.woff2",
+    "static/media/roboto-v20-cyrillic_latin-regular.woff": "./static/media/roboto-v20-cyrillic_latin-regular.c2bf54bc.woff",
+    "static/media/roboto-v20-cyrillic_latin-regular.eot": "./static/media/roboto-v20-cyrillic_latin-regular.eea1b983.eot",
+    "static/media/roboto-v20-cyrillic_latin-regular.ttf": "./static/media/roboto-v20-cyrillic_latin-regular.f245f4a6.ttf",
+    "vendors~main.13777c0b7a6423fa7b31.bundle.js.LICENSE.txt": "./vendors~main.13777c0b7a6423fa7b31.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.13777c0b7a6423fa7b31.bundle.js",
+    "vendors~main.13777c0b7a6423fa7b31.bundle.js",
+    "main.13777c0b7a6423fa7b31.bundle.js"
+  ]
+}
