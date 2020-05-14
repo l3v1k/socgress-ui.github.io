@@ -1,13 +1,13 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "665292e4c4e85d4f48362b9049825c51",
+    "revision": "bb3d25bae4abfbafc698a85779c64807",
     "url": "iframe.html"
   },
   {
-    "url": "main.13777c0b7a6423fa7b31.bundle.js"
+    "url": "main.470061a5f63859e01781.bundle.js"
   },
   {
-    "url": "runtime~main.13777c0b7a6423fa7b31.bundle.js"
+    "url": "runtime~main.470061a5f63859e01781.bundle.js"
   },
   {
     "revision": "0693bf1b0946daf0aa834932075535bf",
@@ -74,9 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/media/roboto-v20-cyrillic_latin-regular.f245f4a6.ttf"
   },
   {
-    "url": "vendors~main.13777c0b7a6423fa7b31.bundle.js"
+    "url": "vendors~main.470061a5f63859e01781.bundle.js"
   },
   {
-    "url": "vendors~main.13777c0b7a6423fa7b31.bundle.js.LICENSE.txt"
+    "url": "vendors~main.470061a5f63859e01781.bundle.js.LICENSE.txt"
   }
 ]);
