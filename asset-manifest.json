@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.js": "./main.df29a838abbdd26cc9f6.bundle.js",
-    "main.js.map": "./main.df29a838abbdd26cc9f6.bundle.js.map",
-    "runtime~main.js": "./runtime~main.df29a838abbdd26cc9f6.bundle.js",
-    "runtime~main.js.map": "./runtime~main.df29a838abbdd26cc9f6.bundle.js.map",
-    "vendors~main.js": "./vendors~main.df29a838abbdd26cc9f6.bundle.js",
-    "vendors~main.js.map": "./vendors~main.df29a838abbdd26cc9f6.bundle.js.map",
+    "main.js": "./main.0689cef2b9b999780d80.bundle.js",
+    "main.js.map": "./main.0689cef2b9b999780d80.bundle.js.map",
+    "runtime~main.js": "./runtime~main.0689cef2b9b999780d80.bundle.js",
+    "runtime~main.js.map": "./runtime~main.0689cef2b9b999780d80.bundle.js.map",
+    "vendors~main.js": "./vendors~main.0689cef2b9b999780d80.bundle.js",
+    "vendors~main.js.map": "./vendors~main.0689cef2b9b999780d80.bundle.js.map",
     "iframe.html": "./iframe.html",
-    "precache-manifest.4c965c6425b2373e2fe657a7351b5735.js": "./precache-manifest.4c965c6425b2373e2fe657a7351b5735.js",
+    "precache-manifest.2010474f3fb5928a9418e8396f9a8f0a.js": "./precache-manifest.2010474f3fb5928a9418e8396f9a8f0a.js",
     "service-worker.js": "./service-worker.js",
+    "static/media/eye-icon.svg": "./static/media/eye-icon.11b5e08c.svg",
+    "static/media/instagram-gray.svg": "./static/media/instagram-gray.6e3bd6d0.svg",
+    "static/media/instagram-white.svg": "./static/media/instagram-white.d35a2d30.svg",
+    "static/media/instagram.svg": "./static/media/instagram.342f0809.svg",
+    "static/media/ok-gray.svg": "./static/media/ok-gray.b94c52d1.svg",
+    "static/media/ok-white.svg": "./static/media/ok-white.1ab568eb.svg",
+    "static/media/ok.svg": "./static/media/ok.e3deb4da.svg",
     "static/media/roboto-v20-cyrillic_latin-500.eot": "./static/media/roboto-v20-cyrillic_latin-500.0693bf1b.eot",
     "static/media/roboto-v20-cyrillic_latin-500.woff": "./static/media/roboto-v20-cyrillic_latin-500.18a127e9.woff",
     "static/media/roboto-v20-cyrillic_latin-500.woff2": "./static/media/roboto-v20-cyrillic_latin-500.2e0bf09a.woff2",
@@ -25,11 +32,23 @@
     "static/media/roboto-v20-cyrillic_latin-regular.woff": "./static/media/roboto-v20-cyrillic_latin-regular.c2bf54bc.woff",
     "static/media/roboto-v20-cyrillic_latin-regular.eot": "./static/media/roboto-v20-cyrillic_latin-regular.eea1b983.eot",
     "static/media/roboto-v20-cyrillic_latin-regular.ttf": "./static/media/roboto-v20-cyrillic_latin-regular.f245f4a6.ttf",
-    "vendors~main.df29a838abbdd26cc9f6.bundle.js.LICENSE.txt": "./vendors~main.df29a838abbdd26cc9f6.bundle.js.LICENSE.txt"
+    "static/media/telegram-gray.svg": "./static/media/telegram-gray.c78bd7de.svg",
+    "static/media/telegram-white.svg": "./static/media/telegram-white.a9016e25.svg",
+    "static/media/telegram.svg": "./static/media/telegram.ebf09a01.svg",
+    "static/media/twitter-gray.svg": "./static/media/twitter-gray.d0023470.svg",
+    "static/media/twitter-white.svg": "./static/media/twitter-white.8c138850.svg",
+    "static/media/twitter.svg": "./static/media/twitter.1f4459e7.svg",
+    "static/media/vk-gray.svg": "./static/media/vk-gray.36ab0c0a.svg",
+    "static/media/vk-white.svg": "./static/media/vk-white.6bf9bb0d.svg",
+    "static/media/vk.svg": "./static/media/vk.573ab020.svg",
+    "static/media/youtube-gray.svg": "./static/media/youtube-gray.e8ae5394.svg",
+    "static/media/youtube-white.svg": "./static/media/youtube-white.83189949.svg",
+    "static/media/youtube.svg": "./static/media/youtube.7354bc9d.svg",
+    "vendors~main.0689cef2b9b999780d80.bundle.js.LICENSE.txt": "./vendors~main.0689cef2b9b999780d80.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.df29a838abbdd26cc9f6.bundle.js",
-    "vendors~main.df29a838abbdd26cc9f6.bundle.js",
-    "main.df29a838abbdd26cc9f6.bundle.js"
+    "runtime~main.0689cef2b9b999780d80.bundle.js",
+    "vendors~main.0689cef2b9b999780d80.bundle.js",
+    "main.0689cef2b9b999780d80.bundle.js"
   ]
 }
